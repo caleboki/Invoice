@@ -1,4 +1,4 @@
-# Invoice App built with Laravel
+# A RESTful Invoice App built with Laravel
 
 
 ![alt tag](https://github.com/caleboki/Invoice/raw/master/img-1.png)
