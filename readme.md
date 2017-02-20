@@ -12,9 +12,9 @@
 
 `composer install`
 
-`save the .env.example to .env`
+save the .env.example to .env
 
-`update the .env file with your db credentials`
+update the .env file with your db credentials
 
 `php artisan key:generate`
 
