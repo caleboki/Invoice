@@ -6,17 +6,17 @@
 ![alt tag](https://github.com/caleboki/Invoice/raw/master/img-2.png)
 
 ### Installation
-`git clone https://github.com/caleboki/Invoice.git`
+* `git clone https://github.com/caleboki/Invoice.git`
 
-`cd Invoice`
+* `cd Invoice`
 
-`composer install`
+* `composer install`
 
-save the .env.example to .env
+* save the .env.example to .env
 
-update the .env file with your db credentials
+* update the .env file with your db credentials
 
-`php artisan key:generate`
+* `php artisan key:generate`
 
 
 
